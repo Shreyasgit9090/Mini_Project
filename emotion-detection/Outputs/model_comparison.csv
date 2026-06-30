@@ -1,0 +1,6 @@
+Model,Accuracy (%)
+Baseline_ResNet50,16.91
+ResNet50V2,67.99
+Progressive_Unfreezing,69.66
+EfficientNet_B0,71.86
+ConvNeXt_Tiny,72.97

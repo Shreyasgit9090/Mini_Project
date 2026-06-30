@@ -1,0 +1,9 @@
+Test Accuracy: 65.03%
+
+Angry F1: 0.58
+Disgust F1: 0.59
+Fear F1: 0.42
+Happy F1: 0.85
+Neutral F1: 0.62
+Sad F1: 0.53
+Surprise F1: 0.77

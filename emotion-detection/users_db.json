@@ -1,0 +1,89 @@
+{
+    "users": {
+        "ShreyasSG123": {
+            "password": "123456",
+            "baseline": [
+                0.00013520072388928384,
+                5.028854275224148e-07,
+                4.080942744622007e-05,
+                3.92916590499226e-05,
+                0.9997039437294006,
+                7.952081068651751e-05,
+                7.330154403462075e-07
+            ],
+            "sessions": [
+                {
+                    "timestamp": "2026-06-11T04:32:36Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 36
+                },
+                {
+                    "timestamp": "2026-06-11T04:32:39Z",
+                    "stable_emotion": "Angry",
+                    "confidence": 30
+                },
+                {
+                    "timestamp": "2026-06-11T04:32:42Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 52
+                },
+                {
+                    "timestamp": "2026-06-11T04:32:48Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 63
+                },
+                {
+                    "timestamp": "2026-06-11T04:32:56Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 54
+                },
+                {
+                    "timestamp": "2026-06-11T04:32:59Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 52
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:02Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 27
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:04Z",
+                    "stable_emotion": "Happy",
+                    "confidence": 49
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:07Z",
+                    "stable_emotion": "Happy",
+                    "confidence": 49
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:10Z",
+                    "stable_emotion": "Happy",
+                    "confidence": 73
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:13Z",
+                    "stable_emotion": "Happy",
+                    "confidence": 74
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:16Z",
+                    "stable_emotion": "Happy",
+                    "confidence": 49
+                },
+                {
+                    "timestamp": "2026-06-11T04:33:21Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 49
+                },
+                {
+                    "timestamp": "2026-06-11T04:34:06Z",
+                    "stable_emotion": "Sad",
+                    "confidence": 56
+                }
+            ],
+            "feedback": []
+        }
+    }
+}
